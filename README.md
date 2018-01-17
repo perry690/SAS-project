@@ -1,5 +1,5 @@
-# SAS-project
-# perform data screening and generate reports for data with problems
+#SAS-project
+#perform data screening and generate reports for data with problems
 
 #Suppose you are doing an epidemiological observational study to find risk factors for
 #heart attack. Data are collected from medical charts and saved as SAS data sets. These
