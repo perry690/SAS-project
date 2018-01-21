@@ -16,7 +16,7 @@
 #screening reports contain data you would like to verify with the study sites. Use common
 #sense when you screen the data. For example, you would like to verify with the site if
 #you see a subject from the site is taller than 100 inches. Your report should be easy to
-#read for people who do not know SAS, e.g. an RN in doctor’s office. 
+#read for people who do not know SAS, e.g. an RN in doctor’s office. (NOTE THAT THESE DATA ARE FOR THE ILLUSTRATION PURPOSE ONLY, NOT REAL DATA)
 
 
 ##Data Set Content:
